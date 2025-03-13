@@ -1,4 +1,6 @@
 MINI PROJECT ON CONDUCT A PERSONAL CYBER HYGIENE AUDIT
+
+A personal cyber hygiene audit is a self-assessment process to evaluate your digital security practices and identify areas for improvement in protecting your devices, data, and online activities from cyber threats. Its fundamental objective is to shield user accounts, data, and systems from potential attacks that may jeopardize their security. By adhering to cyber hygiene principles, individuals and organizations can fortify their defenses and minimize the risks associated with online vulnerabilities. 
 Areas of Audit are as follows:
 
 Passwords and Authentication:
@@ -28,8 +30,8 @@ a. Do you regularly back up important data to secure locations?
 Answer: Not really.
 b. Do you encrypt your data?
 Answer: Yes.
-Risk Analysis:
 
+Risk Analysis:
 Password not regularly updated can lead increased risks of unauthorized access to my accounts, including potential identity theft, data breaches, and financial loss.
 
 Failing to update antivirus software and firewalls leaves my devices vulnerable to a range of cyber threats, including malware infections, data breaches, and system crashes, potentially leading to financial loss, reputational damage, and legal issues.
